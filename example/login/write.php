@@ -10,10 +10,15 @@
 
 <nav class="navbar navbar-dark bg-primary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" href="/index.php">
       <img src="/img/CAUtionImg.png" alt="" width="30" height="24" class="d-inline-block align-text-top">
       WebHell
     </a>
+    <div style="float:right">
+      <a class="btn btn-primary" href="CAUtion.php" role="button">CAUtion Fighting^0^</a>
+      <a class="btn btn-primary" href="logOut.php" role="button">LogOut</a>
+    </div>
+
   </div>
 </nav>
 
