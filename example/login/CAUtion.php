@@ -17,6 +17,7 @@
     <div style="float:right">
       <a class="btn btn-primary" href="CAUtion.php" role="button">CAUtion Fighting^0^</a>
       <a class="btn btn-primary" href="logOut.php" role="button">LogOut</a>
+      <a class="btn btn-primary" href="memberList.php" role="button">MemberList</a>
     </div>
 
   </div>
